@@ -348,3 +348,17 @@ Following are the basics commands and operations in R language:
         result <- ceiling(numbers)
         print(result)  # [1] 2 3 4 5
         ```
+
+-   Packages:
+
+    In R, packages are collections of functions, data, and compiled code that are bundled together to enhance the functionality of R. These packages can be installed from CRAN (Comprehensive R Archive Network), Bioconductor, or other repositories.
+
+    -   **How to install them**:
+
+        -   install.packages('package-name')
+
+    -   **How to import them**:
+
+        -   library('package-name')
+
+## R is a statistical Programming Language.
